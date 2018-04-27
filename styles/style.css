@@ -1,0 +1,139 @@
+* {
+  margin: 0;
+  padding: 20;
+}
+
+html {
+  font-size: 10px; /* base font size is now 10 pixels high  */
+  font-family: Arial, sans-serif;
+#  background-color: #006699;
+  background-color: #008080;
+}
+
+table {
+  font-size: 20px;
+  float: center;
+  background-color: #dce1e5;
+  width: 900px;
+  padding: 25px;
+  padding-left: 75px;
+  margin-left: 50px;
+  padding-bottom: 35px;
+  border: 3px solid gray;
+  font-family: Arial, sans-serif;
+  color: black; 
+}
+
+th {
+  font-family: Arial, sans-serif;
+  font-size: 48px; 
+  padding-bottom: 30px;
+}
+
+td {
+  font-family: Arial, sans-serif;
+  font-size: 18px; 
+  text-align: left;
+  padding-left: 50px;
+}
+
+header, footer {
+  padding: 1em;
+  color: white;
+  background-color: black;
+  clear: left;
+  text-align: left;
+}
+
+h1 {
+  font-size: 28px;
+  text-align: center;
+  color: black;
+  font-weight: 400;
+  word-spacing: 0.075ems;
+  padding: 25px 25px 25px 25px;
+}
+
+h2 {
+  font-size: 20px;
+  text-align: left;
+  color: black;
+  font-weight: bold;
+  word-spacing: 0.075ems;
+  display: inline;
+  padding-left: 25px;
+}
+
+h3 {
+  font-size: 20px;
+  text-align: left;
+  color: black;
+  font-weight: bold;
+  word-spacing: 0.075ems;
+  display: inline;
+  padding-left: 50px;
+}
+
+h4 {
+  font-size: 10px;
+  text-align: left;
+  color: black;
+}
+
+p, li {
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 1px;
+  color: black;
+  text-align: justify;
+  padding: 10px 75px;
+}
+
+body {
+#  width: 1000px;
+  width: 700px;
+  margin: 0 auto;
+  background-color: #FFFFFF;
+  padding: 50px 20px 20px 20px;
+  border: 3px solid black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+.top-icons {
+  float: left;
+  width: 28px;  
+  height: 28px;  
+}
+
+.dates {
+  float: right;
+  padding-right:25px;
+}
+
+.indent {
+  margin-left: 25px;
+}
+
+.job-head {
+  margin-top: 25px;
+  padding-top: 25px;
+}
+
+.special-td-right {
+  text-align: right;
+}
+
+.special-td-left {
+  text-align: left;
+}
+
+.objective {
+  font-size: 24px;
+  padding: 25px;
+  text-align: justify;
+}
+
