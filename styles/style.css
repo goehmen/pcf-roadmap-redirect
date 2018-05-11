@@ -46,28 +46,28 @@ header, footer {
 }
 
 h1 {
-  font-size: 28px;
+  font-size: 38px;
   text-align: center;
-  color: black;
+  color: teal;
   font-weight: 400;
   word-spacing: 0.075ems;
   padding: 25px 25px 25px 25px;
 }
 
 h2 {
-  font-size: 20px;
-  text-align: left;
+  font-size: 28px;
+  text-align: center;
   color: black;
   font-weight: bold;
   word-spacing: 0.075ems;
-  display: inline;
+#  display: inline;
   padding-left: 25px;
 }
 
 h3 {
-  font-size: 20px;
-  text-align: left;
-  color: black;
+  font-size: 24px;
+  text-align: center;
+  color: teal;
   font-weight: bold;
   word-spacing: 0.075ems;
   display: inline;
@@ -91,7 +91,7 @@ p, li {
 
 body {
 #  width: 1000px;
-  width: 700px;
+  width: 750px;
   margin: 0 auto;
   background-color: #FFFFFF;
   padding: 50px 20px 20px 20px;
