@@ -6,8 +6,8 @@
 html {
   font-size: 10px; /* base font size is now 10 pixels high  */
   font-family: Arial, sans-serif;
-#  background-color: #006699;
-  background-color: #008080;
+#  background-color: #008080;
+  background-color: #29b8a5;
 }
 
 table {
@@ -48,7 +48,7 @@ header, footer {
 h1 {
   font-size: 38px;
   text-align: center;
-  color: teal;
+  color: #29b8a5;
   font-weight: 400;
   word-spacing: 0.075ems;
   padding: 25px 25px 25px 25px;
@@ -67,7 +67,7 @@ h2 {
 h3 {
   font-size: 20px;
   text-align: center;
-  color: teal;
+  color: #29b8a5;
   font-weight: normal;
   word-spacing: 0.075ems;
   display: inline;
@@ -96,6 +96,7 @@ body {
   background-color: #FFFFFF;
   padding: 50px 20px 20px 20px;
   border: 3px solid black;
+#  border: 3px gray60;
 }
 
 img {
